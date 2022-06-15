@@ -80,6 +80,11 @@ C:\Users\bia_e\Desktop\IAM_SITE\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Ho
 C:\Users\bia_e\Desktop\IAM_SITE\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Shared\_Menu.cshtml.g.cs
 C:\Users\bia_e\Desktop\IAM_SITE\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Home\confirmaDados.cshtml.g.cs
 C:\Users\bia_e\Desktop\IAM_SITE\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bia_e\Desktop\IAM_SITE\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Home\localizar.cshtml.g.cs
+C:\Users\bia_e\Desktop\IAM_SITE\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Home\dadosReserva.cshtml.g.cs
+C:\Users\bia_e\Desktop\IAM_SITE\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Home\reservaCancelar.cshtml.g.cs
+C:\Users\bia_e\Desktop\IAM_SITE\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Home\editaDados.cshtml.g.cs
+C:\Users\bia_e\Desktop\IAM_SITE\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Home\reservaEditar.cshtml.g.cs
 C:\Users\bia_e\Desktop\IAM\IAM\TCC_Tela Inicial\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\bia_e\Desktop\IAM\IAM\TCC_Tela Inicial\bin\Debug\net5.0\appsettings.json
 C:\Users\bia_e\Desktop\IAM\IAM\TCC_Tela Inicial\bin\Debug\net5.0\TCC_Tela Inicial.exe
@@ -106,8 +111,13 @@ C:\Users\bia_e\Desktop\IAM\IAM\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicia
 C:\Users\bia_e\Desktop\IAM\IAM\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.TagHelpers.output.cache
 C:\Users\bia_e\Desktop\IAM\IAM\TCC_Tela Inicial\obj\Debug\net5.0\TCC_Tela Inicial.RazorCoreGenerate.cache
 C:\Users\bia_e\Desktop\IAM\IAM\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Home\confirmaDados.cshtml.g.cs
+C:\Users\bia_e\Desktop\IAM\IAM\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Home\dadosReserva.cshtml.g.cs
+C:\Users\bia_e\Desktop\IAM\IAM\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Home\editaDados.cshtml.g.cs
 C:\Users\bia_e\Desktop\IAM\IAM\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Home\formulario.cshtml.g.cs
 C:\Users\bia_e\Desktop\IAM\IAM\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\bia_e\Desktop\IAM\IAM\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Home\localizar.cshtml.g.cs
+C:\Users\bia_e\Desktop\IAM\IAM\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Home\reservaCancelar.cshtml.g.cs
+C:\Users\bia_e\Desktop\IAM\IAM\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Home\reservaEditar.cshtml.g.cs
 C:\Users\bia_e\Desktop\IAM\IAM\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\bia_e\Desktop\IAM\IAM\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\bia_e\Desktop\IAM\IAM\TCC_Tela Inicial\obj\Debug\net5.0\Razor\Views\Shared\_Menu.cshtml.g.cs

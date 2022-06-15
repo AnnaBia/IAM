@@ -29,14 +29,25 @@
                         <div class="col-md-5">
                             <select class="form-control" type="text" placeholder="Hora" aria-label="default input example">
                                 <option selected>Hora</option>
-                                <option>...</option>
-                                <option>...</option>
+                                <option>11:00</option>
+                                <option>12:00</option>
+                                <option>13:00</option>
+                                <option>14:00</option>
+                                <option>15:00</option>
+                                <option>16:00</option>
+                                <option>17:00</option>
+                                <option>18:00</option>
+                                <option>19:00</option>
+                                <option>20:00</option>
+                                <option>21:00</option>
+                                <option>22:00</option>
+                                <option>23:00</option>
                             </select>
                         </div>
                     </div>
                     <div class="row justify-content-center">
                         <div class="col-md-10">
-                            <input class="form-control" type="number" placeholder="Pessoas" aria-label="default input example">
+                            <input class="form-control" type="number" placeholder="Pessoas" aria-label="default input example" min="1" max="30">
                         </div>
                     </div>
                     <div class="row justify-content-center">
@@ -68,10 +79,10 @@
                                 <input class="form-control" type="text" placeholder="Telefone" aria-label="default input example">
                             </div>
                         </div>
-                        <div class="row justify-content-center mt-5">
+                        <div class="row justify-content-center mt-4">
                             <div class="col-md-10">
-                                <button type="button" class="btn-continuar">Continuar ></button>
-                                <button type="button" id="btn-limpar">Limpar</button>
+                                <a type="submit" class="btn-continuar" href="@Url.Action("confirmaDados", "Home")">Continuar ></a>
+                                <a type="submit" id="btn-limpar" href="@Url.Action("Index", "Home")">Limpar</a>
                             </div>
                         </div>
                     </div>
